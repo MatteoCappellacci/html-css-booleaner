@@ -30,3 +30,13 @@ h2 {
 .font-pagina {
     font-family: sans-serif;
 }
+div{
+    font-size: 10px;
+    font-weight: 100px;
+}
+ul{
+    margin-top: 50px;
+}
+strong{
+    background-color: yellow;
+}
