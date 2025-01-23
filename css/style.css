@@ -1,16 +1,32 @@
-#logo{
+#logo {
     width: 20%;
     margin-left: 100px;
     margin-top: 30px;
-    
+
 }
 
-    header{
-        background-image: url(../images/pattern.png);
-        background-size: contain;
-        background-color: rgba(92, 200, 242, 0.678);
-    }
-    .distanza{
-        margin-left: 100px;
-    }
-    
+header {
+    background-image: url(../images/pattern.png);
+    background-size: contain;
+    background-color: rgba(92, 200, 242, 0.678);
+}
+
+.distanza {
+    margin-left: 100px;
+}
+
+.colore-sottotesto {
+    color: grey;
+}
+
+.evidenziato {
+    color: rgba(50, 101, 183, 0.615);
+}
+
+h2 {
+    font-size: 10px;
+}
+
+.font-pagina {
+    font-family: sans-serif;
+}
